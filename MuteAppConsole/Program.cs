@@ -1,0 +1,3 @@
+﻿using MuteAppConsole;
+Mute.Toggle();
+
